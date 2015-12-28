@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">WorkoutLog</string>
+    <string name="main_menu_button_add_exercise">Add</string>today_header
+    <string name="today_header">Today: </string>
+    <string name="today_reps_and_weight">Weight: %1$s, reps: %2$s</string>
+    <string name="add_exercise_name">Exercise name</string>
+    <string name="add_exercise_reps">Reps</string>
+    <string name="add_exercise_weight">Weight</string>
+    <string name="add_exercise_button_text">Record</string>
+    <string name="form_validation_exerciseType_required">Exercise name is required</string>
+    <string name="form_validation_reps_required">You did no reps? Impressive!</string>
+    <string name="form_validation_weight_required">You did an exercise with zero weight? Impressive!</string>
+</resources>

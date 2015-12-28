@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_menu_button_add_exercise">Добавить</string>
+    <string name="today_header">Сегодня: </string>
+    <string name="today_reps_and_weight">Вес: %1$s, повторений: %2$s</string>
+    <string name="add_exercise_name">Название упражнения</string>
+    <string name="add_exercise_reps">Повторений</string>
+    <string name="add_exercise_weight">Вес</string>
+    <string name="add_exercise_button_text">Записать</string>
+    <string name="form_validation_exerciseType_required">Введите название упражнения</string>
+    <string name="form_validation_reps_required">Вы сделали 0 повторений? Впечатляет!</string>
+    <string name="form_validation_weight_required">Вы сделали упражнение с нулевым весом? Впечатляет!</string>
+</resources>

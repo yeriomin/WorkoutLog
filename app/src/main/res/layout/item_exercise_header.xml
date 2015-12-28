@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:gravity="center_vertical"
+    android:onClick="gotoNextActivity"
+    android:clickable="true"
+    android:text="@string/main_menu_button_add_exercise"
+    android:textColorHighlight="#FFFFFF"
+    android:drawableLeft="@drawable/ic_add_exercise"
+    android:drawablePadding="15dp"
+    android:paddingLeft="7dp"
+    android:layout_margin="10dp"
+    android:id="@+id/list_footer"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
