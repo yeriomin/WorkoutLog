@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">WorkoutLog</string>
+    <string name="main_menu_button_add_exercise">追加</string>
+    <string name="today_header">今日: </string>
+    <string name="today_reps_and_weight">ウェイト: %1$s, レップス: %2$s</string>
+    <string name="add_exercise_name">エクササイズ名</string>
+    <string name="add_exercise_reps">レップス/回数</string>
+    <string name="add_exercise_weight">ウェイト/重量</string>
+    <string name="add_exercise_button_text">記録</string>
+    <string name="form_validation_exerciseType_required">エクササイズ名は必須です</string>
+    <string name="form_validation_reps_required">レップスなし? お見事!</string>
+    <string name="form_validation_weight_required">ウェイトゼロでエクササイズ? お見事!</string>
+</resources>
