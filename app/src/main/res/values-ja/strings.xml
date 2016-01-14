@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">WorkoutLog</string>
     <string name="main_menu_button_add_exercise">追加</string>
     <string name="today_header">今日: </string>
     <string name="today_reps_and_weight">ウェイト: %1$s, レップス: %2$s</string>
