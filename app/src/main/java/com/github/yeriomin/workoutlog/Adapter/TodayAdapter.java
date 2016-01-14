@@ -36,7 +36,7 @@ public class TodayAdapter extends ArrayAdapter<Exercise>{
         View v = convertView;
         if (v == null) {
             LayoutInflater inflater = (LayoutInflater) getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            v = inflater.inflate(R.layout.item_today, null, false);
+            v = inflater.inflate(R.layout.item_today, parent, false);
         }
         TextView textView = (TextView) v.findViewById(R.id.today_reps_and_weight);
 

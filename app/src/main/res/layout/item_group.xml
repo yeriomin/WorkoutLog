@@ -10,6 +10,8 @@
         android:layout_height="match_parent"
         android:gravity="center_vertical"
         android:paddingLeft="35dp"
+        android:paddingStart="35dp"
+        android:paddingRight="35dp"
         android:layout_margin="10dp"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 </LinearLayout>
