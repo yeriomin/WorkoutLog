@@ -10,5 +10,5 @@
     <string name="add_exercise_button_text">Record</string>
     <string name="form_validation_exerciseType_required">Exercise name is required</string>
     <string name="form_validation_reps_required">You did no reps? Impressive!</string>
-    <string name="form_validation_weight_required">You did an exercise with zero weight? Impressive!</string>
+    <string name="form_validation_weight_required">Weight is required</string>
 </resources>
