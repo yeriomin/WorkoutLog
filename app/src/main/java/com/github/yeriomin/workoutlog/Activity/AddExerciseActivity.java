@@ -92,7 +92,7 @@ public class AddExerciseActivity extends Activity {
             inputReps.setError(getString(R.string.form_validation_reps_required));
             isValid = false;
         }
-        if (weight.length() == 0 || Integer.parseInt(weight) == 0) {
+        if (weight.length() == 0) {
             inputWeight.setError(getString(R.string.form_validation_weight_required));
             isValid = false;
         }
